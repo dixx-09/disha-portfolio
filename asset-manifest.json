@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/disha-portfolio/static/css/main.49ca8e89.chunk.css",
+    "main.js": "/disha-portfolio/static/js/main.d3a99210.chunk.js",
+    "main.js.map": "/disha-portfolio/static/js/main.d3a99210.chunk.js.map",
+    "runtime~main.js": "/disha-portfolio/static/js/runtime~main.c619962c.js",
+    "runtime~main.js.map": "/disha-portfolio/static/js/runtime~main.c619962c.js.map",
+    "static/js/2.ca150098.chunk.js": "/disha-portfolio/static/js/2.ca150098.chunk.js",
+    "static/js/2.ca150098.chunk.js.map": "/disha-portfolio/static/js/2.ca150098.chunk.js.map",
+    "index.html": "/disha-portfolio/index.html",
+    "precache-manifest.f641496b2e0884ce83c17278fc21b38c.js": "/disha-portfolio/precache-manifest.f641496b2e0884ce83c17278fc21b38c.js",
+    "service-worker.js": "/disha-portfolio/service-worker.js",
+    "static/css/main.49ca8e89.chunk.css.map": "/disha-portfolio/static/css/main.49ca8e89.chunk.css.map"
+  }
+}
