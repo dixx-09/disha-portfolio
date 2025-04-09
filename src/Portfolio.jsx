@@ -20,14 +20,13 @@ export default function Portfolio() {
         </ul>
       </section>
 
-      <section className="mb-10">
-        <h2 className="text-2xl font-semibold text-purple-600">Tech Stack</h2>
-        <div className="flex flex-wrap gap-2 mt-3">
-          {['Python',\t 'Java', 'HTML5', 'CSS3', 'JavaScript', 'OpenCV'].map(tech => (
-            <span className="bg-purple-100 text-purple-800 px-3 py-1 rounded-full text-sm font-medium" key={tech}>{tech}</span>
-          ))}
-        </div>
-      </section>
+ 
+      <div className="flex flex-wrap gap-2 mt-3">
+  {['Python', 'Java', 'HTML5', 'CSS3', 'JavaScript', 'OpenCV'].map(tech => (
+    <span className="bg-purple-100 text-purple-800 px-3 py-1 rounded-full text-sm font-medium" key={tech}>{tech}</span>
+  ))}
+</div>
+
 
       <section className="mb-10">
         <h2 className="text-2xl font-semibold text-purple-600">Projects</h2>
