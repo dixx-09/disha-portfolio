@@ -12,5 +12,3 @@ Open `index.html` in a browser.
 - Contact form that opens the visitor's email app
 - Resume PDF included as `Disha_Shenoy_Resume.pdf`
 
-## Before publishing
-Replace the GitHub project links with the specific repository URLs if/when the project repositories are available.
